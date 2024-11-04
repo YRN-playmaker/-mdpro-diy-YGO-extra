@@ -1,0 +1,3 @@
+文件解压后将ART2以外的文件放置expansions文件下
+ART2的文件放在picture内
+或使用mdpro的一键导入模式导入
